@@ -1,7 +1,6 @@
 {
   "name": "background-generator",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "build": "browserify script.js > bundle.js && live-server"
@@ -18,5 +17,7 @@
   "homepage": "https://github.com/jameswhitney/background-generator#readme",
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
