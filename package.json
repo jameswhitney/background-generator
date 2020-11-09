@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/jameswhitney/background-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.20"
   },
   "devDependencies": {},
   "description": ""
